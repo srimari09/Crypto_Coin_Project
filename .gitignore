@@ -1,0 +1,23 @@
+# Node.js
+crypto_backend/node_modules/
+
+# Environment files
+crypto_backend/.env
+crypto_backend/**/.env
+
+# Flutter
+crypto_coin/.dart_tool/
+crypto_coin/build/
+crypto_coin/.flutter-plugins
+crypto_coin/.flutter-plugins-dependencies/
+
+# Android
+crypto_coin/android/.gradle/
+
+# IDE
+.idea/
+**/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
